@@ -1,5 +1,5 @@
 # Civ VI Types
-<a href="https://www.npmjs.com/package/civvi-types"><img alt="npm install" src="https://img.shields.io/npm/dt/@ts-defold/types?color=%23CA0000&label=npm&logo=npm"></a>
+<a href="https://www.npmjs.com/package/civvi-types"><img alt="npm install" src="https://img.shields.io/npm/v/civvi-types?color=red&logo=npm"></a>
 > TypeScript definitions for Civilization VI using [TypeScriptToLua](https://typescripttolua.github.io/docs/getting-started)
 
 ![image](https://user-images.githubusercontent.com/39774593/195465514-cce7ebd6-df96-4484-9b14-b5bb834ec5d6.png)
