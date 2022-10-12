@@ -1,0 +1,25 @@
+{
+  "name": "civvi-types",
+  "version": "1.0.8",
+  "description": "TypeScript declaration files for modding Civ VI using TypeScriptToLua transpiler",
+  "author": "WildW",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^18.8.4",
+    "lua-types": "^2.13.0",
+    "typescript-to-lua": "^1.10.1"
+  },
+  "types": "index.d.ts",
+  "keywords": [
+    "typescript",
+    "lua",
+    "tstl",
+    "language extensions",
+    "civilization",
+    "modding",
+    "civ 6"
+  ],
+  "files": [
+    "**.d.ts"
+  ]
+}
